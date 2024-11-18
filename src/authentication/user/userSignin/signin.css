@@ -1,0 +1,10 @@
+.left-auth-bg{
+    background-image: url('./../../../assets/images/auth-cover-bg.jpg');
+    background-size: cover;
+}
+.top_header a{
+    display: flex;
+}
+.top_header a img{
+    width: 160px;
+}

@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.23a09f19.css",
+    "main.js": "/static/js/main.a3ea5e14.js",
+    "static/js/762.eddcc974.chunk.js": "/static/js/762.eddcc974.chunk.js",
+    "static/js/557.ce47417b.chunk.js": "/static/js/557.ce47417b.chunk.js",
+    "static/js/238.b1498fe5.chunk.js": "/static/js/238.b1498fe5.chunk.js",
+    "static/js/453.b5a488e2.chunk.js": "/static/js/453.b5a488e2.chunk.js",
+    "static/js/239.bdf85f6f.chunk.js": "/static/js/239.bdf85f6f.chunk.js",
+    "static/js/213.ccec372f.chunk.js": "/static/js/213.ccec372f.chunk.js",
+    "static/js/732.bb1d5a09.chunk.js": "/static/js/732.bb1d5a09.chunk.js",
+    "static/media/404.jpg": "/static/media/404.b32428260dba28d48c97.jpg",
+    "static/media/Inter-italic.var.woff2?v=3.19": "/static/media/Inter-italic.var.184ec460d45b3caf5b0b.woff2",
+    "static/media/Inter-roman.var.woff2?v=3.19": "/static/media/Inter-roman.var.71b058b66381db72226b.woff2",
+    "static/media/primeicons.svg": "/static/media/primeicons.6ed59f962963a4a73af2.svg",
+    "static/media/primeicons.eot": "/static/media/primeicons.ff0c4cd79b2ffca2de54.eot",
+    "static/media/primeicons.woff": "/static/media/primeicons.8931fda1930c3bd21e96.woff",
+    "static/media/primeicons.ttf": "/static/media/primeicons.a5c2a53d1ff7a9ff5933.ttf",
+    "static/media/primeicons.woff2": "/static/media/primeicons.024b32cc7bf399b1a847.woff2",
+    "static/media/auth-cover-bg.jpg": "/static/media/auth-cover-bg.85df71c3369820a0c150.jpg",
+    "static/media/Google_Gemini_logo200.png": "/static/media/Google_Gemini_logo200.131d6ffc9a6d487f6376.png",
+    "static/media/Google_Gemini_logo_200white.png": "/static/media/Google_Gemini_logo_200white.5df0cf4cf8e8e0eb61c2.png",
+    "static/media/google-gemini-icon.webp": "/static/media/google-gemini-icon.a9281711241a06a66331.webp",
+    "index.html": "/index.html",
+    "main.23a09f19.css.map": "/static/css/main.23a09f19.css.map",
+    "main.a3ea5e14.js.map": "/static/js/main.a3ea5e14.js.map",
+    "762.eddcc974.chunk.js.map": "/static/js/762.eddcc974.chunk.js.map",
+    "557.ce47417b.chunk.js.map": "/static/js/557.ce47417b.chunk.js.map",
+    "238.b1498fe5.chunk.js.map": "/static/js/238.b1498fe5.chunk.js.map",
+    "453.b5a488e2.chunk.js.map": "/static/js/453.b5a488e2.chunk.js.map",
+    "239.bdf85f6f.chunk.js.map": "/static/js/239.bdf85f6f.chunk.js.map",
+    "213.ccec372f.chunk.js.map": "/static/js/213.ccec372f.chunk.js.map",
+    "732.bb1d5a09.chunk.js.map": "/static/js/732.bb1d5a09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23a09f19.css",
+    "static/js/main.a3ea5e14.js"
+  ]
+}

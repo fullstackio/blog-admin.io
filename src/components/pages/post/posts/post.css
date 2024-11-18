@@ -1,0 +1,45 @@
+.post-songle-content-panel h2{
+    text-transform: capitalize;
+}
+.table-heading{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0 0 15px 0;
+}
+.select-terminology-wrapper{
+    width: calc(100% - 400px);
+    display: flex;
+    align-items: center;
+}
+.add-post{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 380px;
+}
+.create-post{
+    margin: 0 0 0 20px;
+}
+.doc-format button{
+    margin: 0 0 0 10px;
+}
+.post-search{
+    position: relative;
+    max-width: 550px;
+    width: 100%;
+    margin: 0 20px 0 0;
+}
+.post-search input{
+    width: 100%;
+    padding: 15px 80px 15px 20px;
+    border: 1px solid #ccc;
+    border-radius: 30px;
+    height: 55px;
+    
+}
+.close-btn{
+    position: absolute;
+    right: 5px;
+    top: 4px;
+}

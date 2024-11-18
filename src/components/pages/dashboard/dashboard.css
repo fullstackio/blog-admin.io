@@ -1,0 +1,93 @@
+.counter-row{
+    display: flex;
+    justify-content: space-between;
+    margin: 0 -10px;
+}
+.counter-row .counter-col{
+    width: 25%;
+    padding: 0 10px;
+}
+.create-dub{
+    position: relative;
+    z-index: 30;
+}
+.create-dub:before {
+    content: "";
+    position: absolute;
+    margin-block-start: -10px;
+    width: 85%;
+    background-color: #fff3;
+    height: 90%;
+    box-shadow: 0 .15rem .1rem #0000000a;
+    border-radius: .4rem;
+    margin-inline: auto;
+    inset-inline: 0;
+    z-index: -1;
+}
+.create-dub .p-card-body{
+    z-index: 50;
+    background-color: #fff;
+    border-radius: .4rem;
+    min-height: 146px;
+}
+.avatar-perple{
+    background-color: rgba( 142, 84, 233, 0.2);
+    color: #673AB7 !important;
+}
+.avatar-orange{
+    background-color: rgba( 245, 111, 75, 0.2);
+    color: rgb(245 110 74) !important;
+}
+.avatar-blue{
+    background-color: rgba(73, 182, 245, 0.2);
+    color: rgb(73 185 249) !important;
+}
+.avatar-yellow{
+    background-color: rgba( 245, 284, 73, 0.2);
+    color: rgb(245 183 71) !important;
+}
+.avatar-brown{
+    background-color: rgba( 230, 83, 60, 0.2);
+    color: rgb(233 85 61) !important;
+}
+.card-bodyinner{
+    position: relative;
+    display: flex;
+    justify-content: flex-end;
+}
+.card-bodyinner .avatar-profile{
+    position: absolute;
+    top: -85px;
+}
+.create-dub .p-card-content{
+    padding: 0;
+}
+.create-dub .p-card-subtitle{
+    font-size: 38px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #1c2c3f;
+}
+
+.error-count{
+    font-size: 28px;
+    font-family: "Poppins", sans-serif;
+    font-weight: 700;
+    color: #bd0000;
+}
+.create-dub .p-card-title{
+    font-size: 13px;
+    font-weight: 600;
+    color: #818995;
+    text-transform: uppercase;
+}
+.card-footer{
+    display: flex;
+    justify-content: flex-end;
+}
+.card-footer a{
+    color: #8b7395;
+    font-size: 15px;
+    font-weight: 600;
+}
+

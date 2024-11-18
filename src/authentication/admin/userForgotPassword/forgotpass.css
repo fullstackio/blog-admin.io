@@ -1,0 +1,6 @@
+.top_header a{
+    display: flex;
+}
+.top_header a img{
+    width: 160px;
+}
